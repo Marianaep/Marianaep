@@ -1,1 +1,30 @@
-/* css styles */
+/* Navigation bar (Home, About, etc.) */
+.navbar,
+.navbar-dark,
+.navbar-light {
+  background-color:	#03396c !important; /
+}
+
+/* Menu Text */
+.navbar .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+
+/* Hover (to move the mouse) */
+.navbar .nav-link:hover {
+  color: #e6f2f5 !important;
+}
+
+/* Main Title (h1) */
+h1 {
+  color: #03396c ; /
+
+/* Subtitle*/
+h2 {
+  color: 	#005b96; /
+}
+
+h3, h4, h5, h6 {
+  color: 	#005b96;
+}
