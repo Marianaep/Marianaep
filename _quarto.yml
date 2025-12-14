@@ -9,6 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Documentary.qmd
+        text: Documentary 
+      - href: cv-mariana-escobar.pdf
+        text: CV
 
 format:
   html:
