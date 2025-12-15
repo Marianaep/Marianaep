@@ -8,9 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: Documentary.qmd
         text: Documentary 
+      - Blog.qmd
       - href: cv-mariana-escobar.pdf
         text: CV
 

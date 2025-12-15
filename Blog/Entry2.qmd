@@ -1,0 +1,13 @@
+---
+title: "When Administrative Flexibility Meets the Limits of Water Law: Reflections on Empire Lodge v. Moyer"
+---
+
+Water conflicts in Colorado often reveal more than a simple dispute between neighbors; they expose the fragile balance between administrative flexibility and the rule of law in a system built on priority. Empire Lodge Homeowners’ Association v. Moyer (2001) is one of those cases. What began as a conflict over a homeowners’ association filling recreational ponds quickly turned into a broader question about authority: who gets to decide when out-of-priority water use is acceptable, and for how long? At stake was not just a creek in Water Division 2, but the integrity of Colorado’s prior appropriation system.
+
+Empire Lodge was diverting water out of priority when downstream senior right holders, the Moyers, placed repeated calls on Empire Creek to protect their agricultural use. Rather than shutting down the junior diversion, the State Engineer allowed Empire Lodge to continue operating under a series of administrative substitute supply plans while a formal application to the Water Court was pending. The Colorado Supreme Court drew a firm line here. While the State Engineer may issue temporary approvals, the Court made clear that prolonged or repeated administrative permits cannot replace judicial review. Determining whether a diversion causes injury requires technical and hydrologic evidence, and only the Water Court has the authority to make that determination through an approved augmentation plan.
+
+The significance of this decision goes beyond the parties involved. By reaffirming the Water Court’s exclusive role, the ruling strengthens the predictability and transparency of Colorado’s water management system and protects senior rights from gradual erosion through administrative shortcuts. At the same time, it highlights a persistent tension: formal Water Court processes can be costly and time-consuming, particularly for smaller users, while limiting the State Engineer’s flexibility in managing real-world pressures. Yet the alternative—allowing administrative practices to quietly reshape priority—would undermine the very foundation of water governance in Colorado. Empire Lodge v. Moyer ultimately reminds us that informed, evidence-based decisions matter, and that in a system defined by scarcity, the institutions that make those decisions matter just as much.
+
+![](/www/CO-Water-Division.jpg){fig-align="center" width="692"}
+
+[← Back to Documentary](../Blog.qmd)

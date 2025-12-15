@@ -1,0 +1,20 @@
+---
+title: "Blog"
+toc: false
+---
+
+### Texas Groundwater: A Shared Resource with Fragmented Rules 
+
+[Read more →](Blog/Entry1.qmd)
+
+------------------------------------------------------------------------
+
+### Colorado Water Court Case Analysis
+
+[Read more →](Blog/Entry2.qmd)
+
+------------------------------------------------------------------------
+
+### Transboundary Water Case Study: Amazon River Basin
+
+[Read more →](Blog/Entry3.qmd)
