@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Documentary.qmd
+      - href: documentary.qmd
         text: Documentary 
       - href: Blog.qmd
         text: Blog
