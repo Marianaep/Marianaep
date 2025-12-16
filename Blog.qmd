@@ -3,7 +3,7 @@ title: "Blog"
 toc: false
 ---
 
-### Texas Groundwater: A Shared Resource with Fragmented Rules 
+### Texas Groundwater: A Shared Resource with Fragmented Rules
 
 [Read more →](Blog/Entry1.qmd)
 
