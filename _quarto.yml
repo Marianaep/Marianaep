@@ -10,7 +10,8 @@ website:
         text: Home
       - href: documentary.qmd
         text: Documentary 
-      - Blog.qmd
+      - href: Blog.qmd
+        text: Blog
       - href: cv-mariana-escobar.pdf
         text: CV
 
